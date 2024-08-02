@@ -1,6 +1,5 @@
 # Combining-Statistical-Machine-Learning-with-ARIMA-for-Time-Series-Forecasting.
 
-# Time Series Forecasting for Machine Learning Project
 
 Welcome to the Machine Learning Project repository! This project explores various deep learning techniques and their applications.
 
