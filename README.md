@@ -109,7 +109,7 @@ Special thanks to all contributors and the open-source community for their valua
 
 **Mentor** : [Prof.Hong Phan Thi Thu](https://scholar.google.com/citations?user=yXkziQIAAAAJ&hl=en&oi=ao)
 
-**Member** : Khoi Nguyen Ta,Van Quoc Hoan Doan
+**Member** : Hon Nguyen Van, Hoan Doan Van Quoc 
 
 
 
